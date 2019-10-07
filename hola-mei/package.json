@@ -1,0 +1,16 @@
+{
+  "name": "hola-mei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://meimassiel@bitbucket.org/meimassiel/hola-mei.git"
+  },
+  "author": "mei",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/meimassiel/hola-mei#readme",
+  "description": ""
+}
